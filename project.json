@@ -1,0 +1,10 @@
+{
+    "name": "y9go8gi",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "y9go8gi.xml",
+    "author": "matthewchen777",
+    "minimum_firmware_version": 42
+}
